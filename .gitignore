@@ -1,0 +1,14 @@
+# Root
+node_modules/
+.env
+.env.local
+.env.*
+!.env.example
+
+# Build outputs
+client/dist/
+server/logs/
+
+# OS files
+.DS_Store
+Thumbs.db
